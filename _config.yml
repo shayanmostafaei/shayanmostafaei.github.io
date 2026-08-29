@@ -169,6 +169,8 @@ exclude:
   - .asset-cache
   - .bundle
   - .github
+  - markdown_generator
+  - talkmap
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
