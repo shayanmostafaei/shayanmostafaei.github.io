@@ -1,64 +1,63 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Shayan Mostafaei, PhD
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Bioinformatician**  
+Department of Medical Epidemiology and Biostatistics  
+Karolinska Institutet  
+Stockholm, Sweden
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Profile
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Bioinformatics, biostatistics, statistical genetics, machine learning, multi-omics, biological aging, dementia, survival analysis, longitudinal modelling, and causal inference.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Current Position
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Bioinformatician**  
+Department of Medical Epidemiology and Biostatistics  
+Karolinska Institutet, Stockholm, Sweden
+
+Research in molecular epidemiology of aging, statistical genetics, multi-omics, biological aging, dementia, and risk prediction.
+
+## Education
+
+**PhD in Biostatistics and Bioinformatics**  
+Tehran University of Medical Sciences, Tehran, Iran
+
+## Postdoctoral Training
+
+**Machine Learning and Artificial Intelligence**  
+KTH Royal Institute of Technology, Stockholm, Sweden
+
+**Dementia and Machine Learning**  
+Karolinska Institutet, Stockholm, Sweden
+
+## Research Expertise
+
+- Statistical genetics
+- Bioinformatics
+- Biostatistics
+- Machine learning
+- Multi-omics integration
+- Biological aging
+- Dementia and age-related disease
+- Survival and longitudinal analysis
+- Polygenic risk prediction
+- Causal inference
+- Large-scale population and register data
+- Reproducible computational research
+
+## Professional Profiles
+
+[Karolinska Institutet](https://ki.se/en/people/shayan-mostafaei) ·
+[ORCID](https://orcid.org/0000-0002-1966-1306) ·
+[GitHub](https://github.com/shayanmostafaei) ·
+[LinkedIn](https://www.linkedin.com/in/shayan-mostafaei-18b94895/) ·
+[ResearchGate](https://www.researchgate.net/profile/Shayan-Mostafaei-2)
